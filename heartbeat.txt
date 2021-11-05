@@ -1,0 +1,17 @@
+install python 
+install node npm 
+install 
+
+import os 
+
+
+ps -ef | grep node 
+    if node not there then start it again
+    node . 
+
+
+
+import subprocess
+
+batcmd="ps -ef | grep node"
+result = subprocess.check_output(batcmd, shell=True)

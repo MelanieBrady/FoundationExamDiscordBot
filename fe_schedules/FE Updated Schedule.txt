@@ -1,0 +1,69 @@
+88.7% Backtracking
+84.6% Recurrence Relations 
+84.6% Tries
+57.7% Big O
+57.7% Recursive Coding 
+50.0% Heaps
+50.0% Bitwise Operators  
+42.3% Hash Tables
+30.8% AVL Trees 
+26.9% Dynamic Memory
+19.2% Stacks 
+19.2% Binary Trees 
+19.2% Sorting
+15.4% Linked Lists 
+15.4% Queues 
+ 
+ __**Week 1 | Thu, Dec 12 - Sun, Dec 15**__
+Exams to Practice
+*-Fall 2016*
+Supplemental focus
+*DS A - Dynamic Memory
+DS B - Binary Trees
+AL A - Recurrence Relations 
+AL B - Bitwise Operators*
+45%
+
+__**Week 2 | Mon, Dec 16 - Sun, Dec 22**__
+Exams to Practice
+*-Fall 2019
+-Sum 2019
+-Spring 2019*
+Supplemental focus
+*DS A - Linked Lists
+DS B - AVL Trees
+AL A - Big O from Code & their Recurrence Relations
+AL B - Recursive Coding*
+47%
+
+__**Week 3 | Mon, Dec 23 - Sun, Dec 29**__
+Exams to Practice
+*-Fall 2018
+-Sum 2018
+-Spr 2018*
+Supplemental focus
+*DS A - Queues
+DS B - Heaps
+AL A - Calculating Runtime
+AL B - Backtracking*
+52%
+
+__**Week 4 | Mon, Dec 30 - Sun, Jan 5**__
+Exams to Practice
+*-Fall 2017
+-Sum 2017
+-Spr 2017*
+Supplemental focus
+*DS A - Stacks 
+DS B - Hash Tables 
+DS B - Tries 
+AL B - Sorting*
+41%
+
+__**Week 5 | Mon, Jan 6 - Fri, Jan 10**__
+Exams to Practice
+*-Review tricky problems*
+Subject of focus
+*-Final crunch review*
+
+__**Foundation Exam | Sat, Jan 11 | 10am - 12pm **__

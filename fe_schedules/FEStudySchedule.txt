@@ -1,0 +1,105 @@
+Week 1 | Thu, Dec 12 - Sun, Dec 15 | After finals 
+Week 2 | Mon, Dec 16 - Sun, Dec 22 | Break 
+Week 3 | Mon, Dec 23 - Sun, Dec 29 | Break
+Week 4 | Mon, Dec 30 - Sun, Jan 5 | Break
+Week 5 | Mon, Jan 6 - Sat, Jan 10 | New Semester Starts 
+January 11 Foundation Exam
+
+/////////////////////////////////////////////////////////
+Week 1 | Thu, Dec 12 - Sun, Dec 15 | After finals 
+/////////////////////////////////////////////////////////
+
+Exams to Practice: 
+-Dec 2016
+
+Supplemental focus: 
+DS A - Dynamic Memory
+DS B - Binary Trees
+AL A - Recurrence Relations 
+AL B - Bitwise Operators
+ 
+/////////////////////////////////////////////////////////
+Week 2 | Mon, Dec 16 - Sun, Dec 22 | Break 
+/////////////////////////////////////////////////////////
+
+Exams to Practice: 
+-Fall 2019
+-Sum 2019
+-Spring 2019
+
+Supplemental focus: 
+DS A - Linked Lists
+DS B - Hash Tables 
+AL A - Big O from Code & their Recurrence Relations 
+AL B - Backtracking 
+
+/////////////////////////////////////////////////////////
+Week 3 | Mon, Dec 23 - Sun, Dec 29 | Break
+/////////////////////////////////////////////////////////
+
+Exams to Practice: 
+-Fall 2018
+-Sum 2018
+-Spr 2018
+
+Supplemental focus: 
+DS A - Stacks 
+DS B - Tries
+AL A - Calculating Runtime
+AL B - Sorting 
+
+/////////////////////////////////////////////////////////
+Week 4 | Mon, Dec 30 - Sun, Jan 5 | Break
+/////////////////////////////////////////////////////////
+
+Exams to Practice: 
+-Fall 2017
+-Sum 2017
+-Spr 2017
+
+Supplemental focus: 
+DS A - Queues
+DS B - Heaps
+DS B - AVL Trees
+AL B - Recursive Coding
+
+/////////////////////////////////////////////////////////
+Week 5 | Mon, Jan 6 - Fri, Jan 10 | New Semester Starts 
+/////////////////////////////////////////////////////////
+
+Exams to Practice: 
+-Review tricky problems
+
+Subject of focus: 
+-Final crunch review 
+
+/////////////////////////////////////////////////////////
+Foundation Exam | Sat, Jan 11 | 10am - 12pm
+/////////////////////////////////////////////////////////
+
+
+Another way you could have supplemental focus is by section each week: 
+
+Data Structures Part A: 
+DS A - Dynamic Memory
+DS A - Linked Lists
+DS A - Stacks 
+DS A - Queues
+
+Data Structures Part B: 
+DS B - Binary Trees
+DS B - Hash Tables 
+DS B - Tries
+DS B - Heaps
+DS B - AVL Trees
+
+Algorithms & Analysis Part A:
+AL A - Recurrence Relations from Code
+AL A - Recurrence Relations 
+AL A - Calculating Runtime
+
+Algorithms & Analysis Part B:
+AL B - Bitwise Operators
+AL B - Recursive Coding
+AL B - Sorting 
+AL B - Backtracking 

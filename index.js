@@ -3,10 +3,13 @@
 const { Client, Discord, RichEmbed } = require('discord.js');
 var mongoose = require('mongoose'); 
 var fs = require('fs');
+var config = require('./config.json'); //get out of root directory
 
 const bot = new Client();
 
-const token = 'NjUxOTI5Njg2ODUwNjY2NTA2.XehKrA.CoW3RARRiq23JXAOXqSIiETJwx4';
+const token = config.test_token;
+
+
 const PREFIX = "!";
 var feExamDay = new Date("January 11, 2020 10:00:00");
 
